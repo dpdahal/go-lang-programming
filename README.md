@@ -123,4 +123,15 @@
     * Misc Operators
     * Operator Precedence
 5. Input/Output
+6. Control Statements
+    * If Statement
+    * If Else Statement
+    * If Else If Statement
+    * Nested If Statement
+    * Switch Statement
+    * For Loop
+    * For as While Loop
+    * Break Statement
+    * Continue Statement
+    * Goto Statement
   
